@@ -1,4 +1,4 @@
-def changes
+def main
     array = inputarr
     prev = 0
     count = 0
